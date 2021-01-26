@@ -1,0 +1,13 @@
+{
+  [
+    {
+      "firstName": "Maurice",
+      "lastName": "Dupont",
+      "age": "24",
+      "motiveName": "1ère consultation",
+      "motiveColor": "#B5E875",
+      "schedulePractitioner": "Dr Robert",
+      "scheduleName": "Robert Casamance",
+    }
+  ]
+}
